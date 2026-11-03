@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it with these data."
+title: "Group Sparsity and Fairness–Performance Tradeoffs: code and results"
+abstract: "Code and results for a controlled evaluation of reweighing, threshold optimization and exponentiated-gradient reduction against matched baselines on seven tabular datasets."
+type: software
+authors:
+  - family-names: Sarpong
+    given-names: Rebecca A.
+  - family-names: Commey
+    given-names: Daniel
+    orcid: "https://orcid.org/0000-0001-5759-918X"
+version: sncs-revision-1
+date-released: 2026-11-02
+license: MIT
+repository-code: "https://github.com/dcommey-research/fairness-study"
+keywords:
+  - algorithmic fairness
+  - intersectional groups
+  - bias mitigation
+  - repeated cross-validation
+  - Pareto frontier

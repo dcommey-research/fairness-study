@@ -1,0 +1,19 @@
+{
+  "status": "passed",
+  "expected_evaluations": 1900,
+  "records": 1900,
+  "successful_checked": 1720,
+  "baseline_splits_compared": 25,
+  "main_run_reproductions": 375,
+  "encodings": [
+    "race6_sex",
+    "race6",
+    "race3_sex",
+    "race3"
+  ],
+  "code_hash": "85cf367c82dabf51a2f5937b3425152aef01cf8b980a423176b5016510b32bfa",
+  "reproduction_notes": [
+    "EG refit reached a different solution with gap 3.0e-14: results/revision_compas_encoding/compas/race6_sex/n6172/r03-f03/LR-EG-b0.01.json"
+  ],
+  "errors": []
+}

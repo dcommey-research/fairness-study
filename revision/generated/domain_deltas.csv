@@ -1,0 +1,460 @@
+domain,learner,method,config,metric,mean,contributing_datasets
+Census income,DT,RW,DT-RW,accuracy,-0.0054851476146996455,2
+Census income,DT,RW,DT-RW,balanced_accuracy,-0.004675340209262184,2
+Census income,DT,RW,DT-RW,di_ratio,0.011376454205801474,2
+Census income,DT,RW,DT-RW,dp_diff,-0.04748101284994272,2
+Census income,DT,RW,DT-RW,eo_diff,0.07731323265727713,2
+Census income,DT,RW,DT-RW,expected_accuracy,-0.0054851476146996455,2
+Census income,DT,RW,DT-RW,expected_dp_diff,-0.04748101284994272,2
+Census income,DT,RW,DT-RW,reference_age25_dp,-0.04748101284994272,2
+Census income,DT,RW,DT-RW,reference_age25_expected_dp,-0.04748101284994272,2
+Census income,DT,TO,DT-TO,accuracy,-0.023778533253658633,1
+Census income,DT,TO,DT-TO,balanced_accuracy,-0.031638861282647354,1
+Census income,DT,TO,DT-TO,di_ratio,0.2343670795640186,1
+Census income,DT,TO,DT-TO,dp_diff,-0.11442485919341709,1
+Census income,DT,TO,DT-TO,eo_diff,0.1046953308851788,1
+Census income,DT,TO,DT-TO,expected_accuracy,-0.023295759503532774,1
+Census income,DT,TO,DT-TO,expected_dp_diff,-0.13598843271886793,1
+Census income,DT,TO,DT-TO,reference_age25_dp,-0.11442485919341709,1
+Census income,DT,TO,DT-TO,reference_age25_expected_dp,-0.13598843271886793,1
+Census income,HGB,RW,HGB-RW,accuracy,-0.0029793380948448076,2
+Census income,HGB,RW,HGB-RW,balanced_accuracy,-0.008418387675095913,2
+Census income,HGB,RW,HGB-RW,di_ratio,0.04490054664636225,2
+Census income,HGB,RW,HGB-RW,dp_diff,-0.04597076813289559,2
+Census income,HGB,RW,HGB-RW,eo_diff,-0.015250876233062477,2
+Census income,HGB,RW,HGB-RW,expected_accuracy,-0.0029793380948448076,2
+Census income,HGB,RW,HGB-RW,expected_dp_diff,-0.04597076813289559,2
+Census income,HGB,RW,HGB-RW,reference_age25_dp,-0.04597076813289559,2
+Census income,HGB,RW,HGB-RW,reference_age25_expected_dp,-0.04597076813289559,2
+Census income,HGB,TO,HGB-TO,accuracy,-0.023653375525368572,1
+Census income,HGB,TO,HGB-TO,balanced_accuracy,-0.05662651144665503,1
+Census income,HGB,TO,HGB-TO,di_ratio,0.19011717022779034,1
+Census income,HGB,TO,HGB-TO,dp_diff,-0.09616840528718301,1
+Census income,HGB,TO,HGB-TO,eo_diff,0.1433369950040821,1
+Census income,HGB,TO,HGB-TO,expected_accuracy,-0.02336082494817266,1
+Census income,HGB,TO,HGB-TO,expected_dp_diff,-0.11192131615664014,1
+Census income,HGB,TO,HGB-TO,reference_age25_dp,-0.09616840528718301,1
+Census income,HGB,TO,HGB-TO,reference_age25_expected_dp,-0.11192131615664014,1
+Census income,LR,EG,LR-EG-b0.01,accuracy,-0.07281862771927154,2
+Census income,LR,EG,LR-EG-b0.01,balanced_accuracy,-0.10741140381768721,2
+Census income,LR,EG,LR-EG-b0.01,di_ratio,0.13632714558931228,2
+Census income,LR,EG,LR-EG-b0.01,dp_diff,-0.1585527687101132,2
+Census income,LR,EG,LR-EG-b0.01,eo_diff,0.10265364773716523,2
+Census income,LR,EG,LR-EG-b0.01,expected_accuracy,-0.07268163884210213,2
+Census income,LR,EG,LR-EG-b0.01,expected_dp_diff,-0.24169235464040012,2
+Census income,LR,EG,LR-EG-b0.01,reference_age25_dp,-0.1585527687101132,2
+Census income,LR,EG,LR-EG-b0.01,reference_age25_expected_dp,-0.24169235464040012,2
+Census income,LR,EG,LR-EG-b0.05,accuracy,-0.04445455734751854,2
+Census income,LR,EG,LR-EG-b0.05,balanced_accuracy,-0.06002874796104576,2
+Census income,LR,EG,LR-EG-b0.05,di_ratio,0.16997024640307734,2
+Census income,LR,EG,LR-EG-b0.05,dp_diff,-0.12497974662578712,2
+Census income,LR,EG,LR-EG-b0.05,eo_diff,0.008227699047187315,2
+Census income,LR,EG,LR-EG-b0.05,expected_accuracy,-0.04443761953117165,2
+Census income,LR,EG,LR-EG-b0.05,expected_dp_diff,-0.18985875638810004,2
+Census income,LR,EG,LR-EG-b0.05,reference_age25_dp,-0.12497974662578712,2
+Census income,LR,EG,LR-EG-b0.05,reference_age25_expected_dp,-0.18985875638810004,2
+Census income,LR,EG,LR-EG-b0.10,accuracy,-0.025042444083633732,2
+Census income,LR,EG,LR-EG-b0.10,balanced_accuracy,-0.03171967255782895,2
+Census income,LR,EG,LR-EG-b0.10,di_ratio,0.10017210127043515,2
+Census income,LR,EG,LR-EG-b0.10,dp_diff,-0.08602506057559584,2
+Census income,LR,EG,LR-EG-b0.10,eo_diff,-0.051982561353086515,2
+Census income,LR,EG,LR-EG-b0.10,expected_accuracy,-0.024990611536490417,2
+Census income,LR,EG,LR-EG-b0.10,expected_dp_diff,-0.10926877349073974,2
+Census income,LR,EG,LR-EG-b0.10,reference_age25_dp,-0.08602506057559584,2
+Census income,LR,EG,LR-EG-b0.10,reference_age25_expected_dp,-0.10926877349073974,2
+Census income,LR,RW,LR-RW,accuracy,-0.004217952112996817,2
+Census income,LR,RW,LR-RW,balanced_accuracy,-0.009966928820060762,2
+Census income,LR,RW,LR-RW,di_ratio,0.045491484053073544,2
+Census income,LR,RW,LR-RW,dp_diff,-0.05760851740690425,2
+Census income,LR,RW,LR-RW,eo_diff,0.0021951069694927314,2
+Census income,LR,RW,LR-RW,expected_accuracy,-0.004217952112996817,2
+Census income,LR,RW,LR-RW,expected_dp_diff,-0.05760851740690425,2
+Census income,LR,RW,LR-RW,reference_age25_dp,-0.05760851740690425,2
+Census income,LR,RW,LR-RW,reference_age25_expected_dp,-0.05760851740690425,2
+Census income,LR,TO,LR-TO,accuracy,-0.021623065243190125,1
+Census income,LR,TO,LR-TO,balanced_accuracy,-0.05587995838187449,1
+Census income,LR,TO,LR-TO,di_ratio,0.2205815042578678,1
+Census income,LR,TO,LR-TO,dp_diff,-0.09870389226675295,1
+Census income,LR,TO,LR-TO,eo_diff,0.16781401766153248,1
+Census income,LR,TO,LR-TO,expected_accuracy,-0.021676309754089875,1
+Census income,LR,TO,LR-TO,expected_dp_diff,-0.11616347532336221,1
+Census income,LR,TO,LR-TO,reference_age25_dp,-0.09870389226675295,1
+Census income,LR,TO,LR-TO,reference_age25_expected_dp,-0.11616347532336221,1
+Census income,RF,RW,RF-RW,accuracy,-0.004492120436023182,2
+Census income,RF,RW,RF-RW,balanced_accuracy,-0.0166303441952644,2
+Census income,RF,RW,RF-RW,di_ratio,0.03258987012085107,2
+Census income,RF,RW,RF-RW,dp_diff,-0.08824585742837385,2
+Census income,RF,RW,RF-RW,eo_diff,-0.03869473743934558,2
+Census income,RF,RW,RF-RW,expected_accuracy,-0.004492120436023182,2
+Census income,RF,RW,RF-RW,expected_dp_diff,-0.08824585742837385,2
+Census income,RF,RW,RF-RW,reference_age25_dp,-0.08824585742837385,2
+Census income,RF,RW,RF-RW,reference_age25_expected_dp,-0.08824585742837385,2
+Census income,RF,TO,RF-TO,accuracy,-0.011289293578934299,1
+Census income,RF,TO,RF-TO,balanced_accuracy,-0.0005031854961394121,1
+Census income,RF,TO,RF-TO,di_ratio,0.3131562363274385,1
+Census income,RF,TO,RF-TO,dp_diff,-0.09645519941082889,1
+Census income,RF,TO,RF-TO,eo_diff,0.126534025619202,1
+Census income,RF,TO,RF-TO,expected_accuracy,-0.011360919683605574,1
+Census income,RF,TO,RF-TO,expected_dp_diff,-0.10674543828132693,1
+Census income,RF,TO,RF-TO,reference_age25_dp,-0.09645519941082889,1
+Census income,RF,TO,RF-TO,reference_age25_expected_dp,-0.10674543828132693,1
+Criminal justice,DT,RW,DT-RW,accuracy,-0.0006489806363558737,1
+Criminal justice,DT,RW,DT-RW,balanced_accuracy,-0.0021520350023048838,1
+Criminal justice,DT,RW,DT-RW,di_ratio,0.006874532247355632,1
+Criminal justice,DT,RW,DT-RW,dp_diff,-0.0207026076780104,1
+Criminal justice,DT,RW,DT-RW,eo_diff,0.016616424032243667,1
+Criminal justice,DT,RW,DT-RW,expected_accuracy,-0.0006489806363558737,1
+Criminal justice,DT,RW,DT-RW,expected_dp_diff,-0.0207026076780104,1
+Criminal justice,DT,RW,DT-RW,reference_age25_dp,-0.0207026076780104,1
+Criminal justice,DT,RW,DT-RW,reference_age25_expected_dp,-0.0207026076780104,1
+Criminal justice,HGB,RW,HGB-RW,accuracy,-0.004893470429595985,1
+Criminal justice,HGB,RW,HGB-RW,balanced_accuracy,-0.006181868928690722,1
+Criminal justice,HGB,RW,HGB-RW,di_ratio,-0.0020713152030648434,1
+Criminal justice,HGB,RW,HGB-RW,dp_diff,-0.006163709887025728,1
+Criminal justice,HGB,RW,HGB-RW,eo_diff,0.022326888220956086,1
+Criminal justice,HGB,RW,HGB-RW,expected_accuracy,-0.004893470429595985,1
+Criminal justice,HGB,RW,HGB-RW,expected_dp_diff,-0.006163709887025728,1
+Criminal justice,HGB,RW,HGB-RW,reference_age25_dp,-0.006163709887025728,1
+Criminal justice,HGB,RW,HGB-RW,reference_age25_expected_dp,-0.006163709887025728,1
+Criminal justice,LR,EG,LR-EG-b0.01,accuracy,-0.1428057926889284,1
+Criminal justice,LR,EG,LR-EG-b0.01,balanced_accuracy,-0.15568700927198967,1
+Criminal justice,LR,EG,LR-EG-b0.01,di_ratio,0.007446892288997551,1
+Criminal justice,LR,EG,LR-EG-b0.01,dp_diff,-0.2667347266874116,1
+Criminal justice,LR,EG,LR-EG-b0.01,eo_diff,-0.32712926901082623,1
+Criminal justice,LR,EG,LR-EG-b0.01,expected_accuracy,-0.1443250376602998,1
+Criminal justice,LR,EG,LR-EG-b0.01,expected_dp_diff,-0.5504879379748051,1
+Criminal justice,LR,EG,LR-EG-b0.01,reference_age25_dp,-0.2667347266874116,1
+Criminal justice,LR,EG,LR-EG-b0.01,reference_age25_expected_dp,-0.5504879379748051,1
+Criminal justice,LR,EG,LR-EG-b0.05,accuracy,-0.10165234680017585,1
+Criminal justice,LR,EG,LR-EG-b0.05,balanced_accuracy,-0.12054652120281747,1
+Criminal justice,LR,EG,LR-EG-b0.05,di_ratio,-0.014558892529217899,1
+Criminal justice,LR,EG,LR-EG-b0.05,dp_diff,-0.37525207200782307,1
+Criminal justice,LR,EG,LR-EG-b0.05,eo_diff,-0.36379876758079993,1
+Criminal justice,LR,EG,LR-EG-b0.05,expected_accuracy,-0.1013684658185495,1
+Criminal justice,LR,EG,LR-EG-b0.05,expected_dp_diff,-0.48939618604865315,1
+Criminal justice,LR,EG,LR-EG-b0.05,reference_age25_dp,-0.37525207200782307,1
+Criminal justice,LR,EG,LR-EG-b0.05,reference_age25_expected_dp,-0.48939618604865315,1
+Criminal justice,LR,EG,LR-EG-b0.10,accuracy,-0.07232635384746619,1
+Criminal justice,LR,EG,LR-EG-b0.10,balanced_accuracy,-0.08027531717431563,1
+Criminal justice,LR,EG,LR-EG-b0.10,di_ratio,-0.012197185429946477,1
+Criminal justice,LR,EG,LR-EG-b0.10,dp_diff,-0.174831662265746,1
+Criminal justice,LR,EG,LR-EG-b0.10,eo_diff,-0.16353583446891512,1
+Criminal justice,LR,EG,LR-EG-b0.10,expected_accuracy,-0.07064348661508403,1
+Criminal justice,LR,EG,LR-EG-b0.10,expected_dp_diff,-0.27911847311530386,1
+Criminal justice,LR,EG,LR-EG-b0.10,reference_age25_dp,-0.174831662265746,1
+Criminal justice,LR,EG,LR-EG-b0.10,reference_age25_expected_dp,-0.27911847311530386,1
+Criminal justice,LR,RW,LR-RW,accuracy,-0.001263945301478353,1
+Criminal justice,LR,RW,LR-RW,balanced_accuracy,-0.0017454556272946053,1
+Criminal justice,LR,RW,LR-RW,di_ratio,-1.9049020698833628e-05,1
+Criminal justice,LR,RW,LR-RW,dp_diff,-0.004060689312172434,1
+Criminal justice,LR,RW,LR-RW,eo_diff,0.0004018321458922891,1
+Criminal justice,LR,RW,LR-RW,expected_accuracy,-0.001263945301478353,1
+Criminal justice,LR,RW,LR-RW,expected_dp_diff,-0.004060689312172434,1
+Criminal justice,LR,RW,LR-RW,reference_age25_dp,-0.004060689312172434,1
+Criminal justice,LR,RW,LR-RW,reference_age25_expected_dp,-0.004060689312172434,1
+Criminal justice,RF,RW,RF-RW,accuracy,-0.0014256523992939485,1
+Criminal justice,RF,RW,RF-RW,balanced_accuracy,-0.002135287576650291,1
+Criminal justice,RF,RW,RF-RW,di_ratio,0.0007169599402187493,1
+Criminal justice,RF,RW,RF-RW,dp_diff,-0.00645029334983793,1
+Criminal justice,RF,RW,RF-RW,eo_diff,-0.007353460308082233,1
+Criminal justice,RF,RW,RF-RW,expected_accuracy,-0.0014256523992939485,1
+Criminal justice,RF,RW,RF-RW,expected_dp_diff,-0.00645029334983793,1
+Criminal justice,RF,RW,RF-RW,reference_age25_dp,-0.00645029334983793,1
+Criminal justice,RF,RW,RF-RW,reference_age25_expected_dp,-0.00645029334983793,1
+Education,DT,RW,DT-RW,accuracy,-0.004834039247392718,1
+Education,DT,RW,DT-RW,balanced_accuracy,-0.004914365593517505,1
+Education,DT,RW,DT-RW,di_ratio,0.07087061612443295,1
+Education,DT,RW,DT-RW,dp_diff,-0.08471753057501864,1
+Education,DT,RW,DT-RW,eo_diff,-0.08829186352563151,1
+Education,DT,RW,DT-RW,expected_accuracy,-0.004834039247392718,1
+Education,DT,RW,DT-RW,expected_dp_diff,-0.08471753057501864,1
+Education,DT,RW,DT-RW,reference_age25_dp,-0.08471753057501864,1
+Education,DT,RW,DT-RW,reference_age25_expected_dp,-0.08471753057501864,1
+Education,DT,TO,DT-TO,accuracy,-0.025449868215797967,1
+Education,DT,TO,DT-TO,balanced_accuracy,-0.02549303326795549,1
+Education,DT,TO,DT-TO,di_ratio,0.7635114283233662,1
+Education,DT,TO,DT-TO,dp_diff,-0.44085959927794677,1
+Education,DT,TO,DT-TO,eo_diff,-0.40747777819182807,1
+Education,DT,TO,DT-TO,expected_accuracy,-0.02546386143183908,1
+Education,DT,TO,DT-TO,expected_dp_diff,-0.4439584113731329,1
+Education,DT,TO,DT-TO,reference_age25_dp,-0.44085959927794677,1
+Education,DT,TO,DT-TO,reference_age25_expected_dp,-0.4439584113731329,1
+Education,HGB,RW,HGB-RW,accuracy,-0.008996571026546541,1
+Education,HGB,RW,HGB-RW,balanced_accuracy,-0.009074429036337688,1
+Education,HGB,RW,HGB-RW,di_ratio,0.14963594316522047,1
+Education,HGB,RW,HGB-RW,dp_diff,-0.129398616587676,1
+Education,HGB,RW,HGB-RW,eo_diff,-0.14662731170864507,1
+Education,HGB,RW,HGB-RW,expected_accuracy,-0.008996571026546541,1
+Education,HGB,RW,HGB-RW,expected_dp_diff,-0.129398616587676,1
+Education,HGB,RW,HGB-RW,reference_age25_dp,-0.129398616587676,1
+Education,HGB,RW,HGB-RW,reference_age25_expected_dp,-0.129398616587676,1
+Education,HGB,TO,HGB-TO,accuracy,-0.027777339287277544,1
+Education,HGB,TO,HGB-TO,balanced_accuracy,-0.027847539874030672,1
+Education,HGB,TO,HGB-TO,di_ratio,0.7673660113007718,1
+Education,HGB,TO,HGB-TO,dp_diff,-0.463402544940612,1
+Education,HGB,TO,HGB-TO,eo_diff,-0.4272231195348644,1
+Education,HGB,TO,HGB-TO,expected_accuracy,-0.02798533238416794,1
+Education,HGB,TO,HGB-TO,expected_dp_diff,-0.46581913626804783,1
+Education,HGB,TO,HGB-TO,reference_age25_dp,-0.463402544940612,1
+Education,HGB,TO,HGB-TO,reference_age25_expected_dp,-0.46581913626804783,1
+Education,LR,EG,LR-EG-b0.01,accuracy,-0.07748610791981285,1
+Education,LR,EG,LR-EG-b0.01,balanced_accuracy,-0.07770261954095972,1
+Education,LR,EG,LR-EG-b0.01,di_ratio,0.8194600714867534,1
+Education,LR,EG,LR-EG-b0.01,dp_diff,-0.45377691839064177,1
+Education,LR,EG,LR-EG-b0.01,eo_diff,-0.41255870806206546,1
+Education,LR,EG,LR-EG-b0.01,expected_accuracy,-0.0771657982825946,1
+Education,LR,EG,LR-EG-b0.01,expected_dp_diff,-0.4627917096339687,1
+Education,LR,EG,LR-EG-b0.01,reference_age25_dp,-0.45377691839064177,1
+Education,LR,EG,LR-EG-b0.01,reference_age25_expected_dp,-0.4627917096339687,1
+Education,LR,EG,LR-EG-b0.05,accuracy,-0.06951004162165184,1
+Education,LR,EG,LR-EG-b0.05,balanced_accuracy,-0.06971016817440401,1
+Education,LR,EG,LR-EG-b0.05,di_ratio,0.7344775914115823,1
+Education,LR,EG,LR-EG-b0.05,dp_diff,-0.4204683460638768,1
+Education,LR,EG,LR-EG-b0.05,eo_diff,-0.3949648581389903,1
+Education,LR,EG,LR-EG-b0.05,expected_accuracy,-0.0696809576127489,1
+Education,LR,EG,LR-EG-b0.05,expected_dp_diff,-0.4202975830506171,1
+Education,LR,EG,LR-EG-b0.05,reference_age25_dp,-0.4204683460638768,1
+Education,LR,EG,LR-EG-b0.05,reference_age25_expected_dp,-0.4202975830506171,1
+Education,LR,EG,LR-EG-b0.10,accuracy,-0.05953781676737368,1
+Education,LR,EG,LR-EG-b0.10,balanced_accuracy,-0.05971705401446428,1
+Education,LR,EG,LR-EG-b0.10,di_ratio,0.6104434861545575,1
+Education,LR,EG,LR-EG-b0.10,dp_diff,-0.3679828521013942,1
+Education,LR,EG,LR-EG-b0.10,eo_diff,-0.34741859546691456,1
+Education,LR,EG,LR-EG-b0.10,expected_accuracy,-0.060314543893062525,1
+Education,LR,EG,LR-EG-b0.10,expected_dp_diff,-0.36597771250705446,1
+Education,LR,EG,LR-EG-b0.10,reference_age25_dp,-0.3679828521013942,1
+Education,LR,EG,LR-EG-b0.10,reference_age25_expected_dp,-0.36597771250705446,1
+Education,LR,RW,LR-RW,accuracy,0.000975747980767947,1
+Education,LR,RW,LR-RW,balanced_accuracy,0.0009782384286640645,1
+Education,LR,RW,LR-RW,di_ratio,0.001106454879797409,1
+Education,LR,RW,LR-RW,dp_diff,0.0009491917236518166,1
+Education,LR,RW,LR-RW,eo_diff,0.005594415510040818,1
+Education,LR,RW,LR-RW,expected_accuracy,0.000975747980767947,1
+Education,LR,RW,LR-RW,expected_dp_diff,0.0009491917236518166,1
+Education,LR,RW,LR-RW,reference_age25_dp,0.0009491917236518166,1
+Education,LR,RW,LR-RW,reference_age25_expected_dp,0.0009491917236518166,1
+Education,LR,TO,LR-TO,accuracy,-0.02648819190712586,1
+Education,LR,TO,LR-TO,balanced_accuracy,-0.026513201909877666,1
+Education,LR,TO,LR-TO,di_ratio,0.8094620265356389,1
+Education,LR,TO,LR-TO,dp_diff,-0.44145457216311823,1
+Education,LR,TO,LR-TO,eo_diff,-0.4389290012610572,1
+Education,LR,TO,LR-TO,expected_accuracy,-0.02638087165550091,1
+Education,LR,TO,LR-TO,expected_dp_diff,-0.4451087531168346,1
+Education,LR,TO,LR-TO,reference_age25_dp,-0.44145457216311823,1
+Education,LR,TO,LR-TO,reference_age25_expected_dp,-0.4451087531168346,1
+Education,RF,RW,RF-RW,accuracy,-0.001960458529293514,1
+Education,RF,RW,RF-RW,balanced_accuracy,-0.002055590240423948,1
+Education,RF,RW,RF-RW,di_ratio,-0.0019075621720772422,1
+Education,RF,RW,RF-RW,dp_diff,-0.05174066246995396,1
+Education,RF,RW,RF-RW,eo_diff,-0.05033810381582395,1
+Education,RF,RW,RF-RW,expected_accuracy,-0.001960458529293514,1
+Education,RF,RW,RF-RW,expected_dp_diff,-0.05174066246995396,1
+Education,RF,RW,RF-RW,reference_age25_dp,-0.05174066246995396,1
+Education,RF,RW,RF-RW,reference_age25_expected_dp,-0.05174066246995396,1
+Education,RF,TO,RF-TO,accuracy,-0.027490699382776766,1
+Education,RF,TO,RF-TO,balanced_accuracy,-0.02757615973520084,1
+Education,RF,TO,RF-TO,di_ratio,0.7776056587634844,1
+Education,RF,TO,RF-TO,dp_diff,-0.47186830876996766,1
+Education,RF,TO,RF-TO,eo_diff,-0.4397741082803073,1
+Education,RF,TO,RF-TO,expected_accuracy,-0.027709051709461287,1
+Education,RF,TO,RF-TO,expected_dp_diff,-0.4737526260619292,1
+Education,RF,TO,RF-TO,reference_age25_dp,-0.47186830876996766,1
+Education,RF,TO,RF-TO,reference_age25_expected_dp,-0.4737526260619292,1
+Finance,DT,RW,DT-RW,accuracy,0.0008911528891075893,2
+Finance,DT,RW,DT-RW,balanced_accuracy,-0.0021567755784031896,2
+Finance,DT,RW,DT-RW,di_ratio,0.015387313843238066,2
+Finance,DT,RW,DT-RW,dp_diff,-0.01241837381120426,2
+Finance,DT,RW,DT-RW,eo_diff,0.002365694096810901,2
+Finance,DT,RW,DT-RW,expected_accuracy,0.0008911528891075893,2
+Finance,DT,RW,DT-RW,expected_dp_diff,-0.01241837381120426,2
+Finance,DT,RW,DT-RW,reference_age25_dp,-0.01241837381120426,2
+Finance,DT,RW,DT-RW,reference_age25_expected_dp,-0.01241837381120426,2
+Finance,DT,TO,DT-TO,accuracy,0.0013911511769213547,2
+Finance,DT,TO,DT-TO,balanced_accuracy,-0.02676290315522553,2
+Finance,DT,TO,DT-TO,di_ratio,-0.0026029205989941077,2
+Finance,DT,TO,DT-TO,dp_diff,-0.005429531667421408,2
+Finance,DT,TO,DT-TO,eo_diff,-0.02052825896979916,2
+Finance,DT,TO,DT-TO,expected_accuracy,0.0014976425120522175,2
+Finance,DT,TO,DT-TO,expected_dp_diff,-0.008695005076463747,2
+Finance,DT,TO,DT-TO,reference_age25_dp,-0.005429531667421408,2
+Finance,DT,TO,DT-TO,reference_age25_expected_dp,-0.008695005076463747,2
+Finance,HGB,RW,HGB-RW,accuracy,-0.00012875885845411216,2
+Finance,HGB,RW,HGB-RW,balanced_accuracy,0.0007498780187558962,2
+Finance,HGB,RW,HGB-RW,di_ratio,0.0006522502089325409,2
+Finance,HGB,RW,HGB-RW,dp_diff,-0.0005991160239624583,2
+Finance,HGB,RW,HGB-RW,eo_diff,0.00999438533137851,2
+Finance,HGB,RW,HGB-RW,expected_accuracy,-0.00012875885845411216,2
+Finance,HGB,RW,HGB-RW,expected_dp_diff,-0.0005991160239624583,2
+Finance,HGB,RW,HGB-RW,reference_age25_dp,-0.0005991160239624583,2
+Finance,HGB,RW,HGB-RW,reference_age25_expected_dp,-0.0005991160239624583,2
+Finance,HGB,TO,HGB-TO,accuracy,-0.0011698417741791167,2
+Finance,HGB,TO,HGB-TO,balanced_accuracy,-0.008277655164013588,2
+Finance,HGB,TO,HGB-TO,di_ratio,-0.02443182631194908,2
+Finance,HGB,TO,HGB-TO,dp_diff,-0.003344756807654312,2
+Finance,HGB,TO,HGB-TO,eo_diff,-0.0065453497953776455,2
+Finance,HGB,TO,HGB-TO,expected_accuracy,3.384692658012556e-05,2
+Finance,HGB,TO,HGB-TO,expected_dp_diff,-0.005619364848312256,2
+Finance,HGB,TO,HGB-TO,reference_age25_dp,-0.003344756807654312,2
+Finance,HGB,TO,HGB-TO,reference_age25_expected_dp,-0.005619364848312256,2
+Finance,LR,EG,LR-EG-b0.01,accuracy,-0.005608849312274722,2
+Finance,LR,EG,LR-EG-b0.01,balanced_accuracy,-0.011310609656621886,2
+Finance,LR,EG,LR-EG-b0.01,di_ratio,0.04136219329586027,2
+Finance,LR,EG,LR-EG-b0.01,dp_diff,-0.029443417698280114,2
+Finance,LR,EG,LR-EG-b0.01,eo_diff,-0.019956833987699495,2
+Finance,LR,EG,LR-EG-b0.01,expected_accuracy,-0.005009154209039474,2
+Finance,LR,EG,LR-EG-b0.01,expected_dp_diff,-0.02672104202773424,2
+Finance,LR,EG,LR-EG-b0.01,reference_age25_dp,-0.029443417698280114,2
+Finance,LR,EG,LR-EG-b0.01,reference_age25_expected_dp,-0.02672104202773424,2
+Finance,LR,EG,LR-EG-b0.05,accuracy,-0.005013273112318959,2
+Finance,LR,EG,LR-EG-b0.05,balanced_accuracy,-0.008511789991092075,2
+Finance,LR,EG,LR-EG-b0.05,di_ratio,0.031669929309270574,2
+Finance,LR,EG,LR-EG-b0.05,dp_diff,-0.022167325628879023,2
+Finance,LR,EG,LR-EG-b0.05,eo_diff,-0.017590699436886095,2
+Finance,LR,EG,LR-EG-b0.05,expected_accuracy,-0.00520627476627453,2
+Finance,LR,EG,LR-EG-b0.05,expected_dp_diff,-0.02208751207034535,2
+Finance,LR,EG,LR-EG-b0.05,reference_age25_dp,-0.022167325628879023,2
+Finance,LR,EG,LR-EG-b0.05,reference_age25_expected_dp,-0.02208751207034535,2
+Finance,LR,EG,LR-EG-b0.10,accuracy,-0.004713273112318959,2
+Finance,LR,EG,LR-EG-b0.10,balanced_accuracy,-0.007345132266521757,2
+Finance,LR,EG,LR-EG-b0.10,di_ratio,0.026827387929970584,2
+Finance,LR,EG,LR-EG-b0.10,dp_diff,-0.018104448719974197,2
+Finance,LR,EG,LR-EG-b0.10,eo_diff,-0.012112127982976494,2
+Finance,LR,EG,LR-EG-b0.10,expected_accuracy,-0.005031848510326405,2
+Finance,LR,EG,LR-EG-b0.10,expected_dp_diff,-0.017703900391240136,2
+Finance,LR,EG,LR-EG-b0.10,reference_age25_dp,-0.018104448719974197,2
+Finance,LR,EG,LR-EG-b0.10,reference_age25_expected_dp,-0.017703900391240136,2
+Finance,LR,RW,LR-RW,accuracy,-0.003542025611224202,2
+Finance,LR,RW,LR-RW,balanced_accuracy,-0.004686591388634627,2
+Finance,LR,RW,LR-RW,di_ratio,0.01624601286724428,2
+Finance,LR,RW,LR-RW,dp_diff,-0.008363340196836917,2
+Finance,LR,RW,LR-RW,eo_diff,-0.0034750181546059807,2
+Finance,LR,RW,LR-RW,expected_accuracy,-0.003542025611224202,2
+Finance,LR,RW,LR-RW,expected_dp_diff,-0.008363340196836917,2
+Finance,LR,RW,LR-RW,reference_age25_dp,-0.008363340196836917,2
+Finance,LR,RW,LR-RW,reference_age25_expected_dp,-0.008363340196836917,2
+Finance,LR,TO,LR-TO,accuracy,-0.0016968449152826093,2
+Finance,LR,TO,LR-TO,balanced_accuracy,-0.008467913781550042,2
+Finance,LR,TO,LR-TO,di_ratio,-0.0030927671129012194,2
+Finance,LR,TO,LR-TO,dp_diff,-0.021467513437452193,2
+Finance,LR,TO,LR-TO,eo_diff,-0.030015764447011775,2
+Finance,LR,TO,LR-TO,expected_accuracy,-0.0015714492365707677,2
+Finance,LR,TO,LR-TO,expected_dp_diff,-0.02635912453151679,2
+Finance,LR,TO,LR-TO,reference_age25_dp,-0.021467513437452193,2
+Finance,LR,TO,LR-TO,reference_age25_expected_dp,-0.02635912453151679,2
+Finance,RF,RW,RF-RW,accuracy,-0.0031933660121198824,2
+Finance,RF,RW,RF-RW,balanced_accuracy,-0.005851824489793372,2
+Finance,RF,RW,RF-RW,di_ratio,0.005081755960638932,2
+Finance,RF,RW,RF-RW,dp_diff,-0.005590042473756961,2
+Finance,RF,RW,RF-RW,eo_diff,-0.008298810173512146,2
+Finance,RF,RW,RF-RW,expected_accuracy,-0.0031933660121198824,2
+Finance,RF,RW,RF-RW,expected_dp_diff,-0.005590042473756961,2
+Finance,RF,RW,RF-RW,reference_age25_dp,-0.005590042473756961,2
+Finance,RF,RW,RF-RW,reference_age25_expected_dp,-0.005590042473756961,2
+Finance,RF,TO,RF-TO,accuracy,0.007830966844907703,2
+Finance,RF,TO,RF-TO,balanced_accuracy,0.05318782418648099,2
+Finance,RF,TO,RF-TO,di_ratio,-0.03630246632088609,2
+Finance,RF,TO,RF-TO,dp_diff,0.014210514355751009,2
+Finance,RF,TO,RF-TO,eo_diff,0.011830263973717033,2
+Finance,RF,TO,RF-TO,expected_accuracy,0.007464801037346951,2
+Finance,RF,TO,RF-TO,expected_dp_diff,0.009398618771270892,2
+Finance,RF,TO,RF-TO,reference_age25_dp,0.014210514355751009,2
+Finance,RF,TO,RF-TO,reference_age25_expected_dp,0.009398618771270892,2
+Healthcare,DT,RW,DT-RW,accuracy,-0.02892896174863388,1
+Healthcare,DT,RW,DT-RW,balanced_accuracy,-0.02799963924963924,1
+Healthcare,DT,RW,DT-RW,di_ratio,0.054250119454288065,1
+Healthcare,DT,RW,DT-RW,dp_diff,-0.031153333382927872,1
+Healthcare,DT,RW,DT-RW,eo_diff,-0.0002545454545454473,1
+Healthcare,DT,RW,DT-RW,expected_accuracy,-0.02892896174863388,1
+Healthcare,DT,RW,DT-RW,expected_dp_diff,-0.031153333382927872,1
+Healthcare,DT,RW,DT-RW,reference_age25_dp,-0.031153333382927872,1
+Healthcare,DT,RW,DT-RW,reference_age25_expected_dp,-0.031153333382927872,1
+Healthcare,DT,TO,DT-TO,accuracy,-0.03037158469945356,1
+Healthcare,DT,TO,DT-TO,balanced_accuracy,-0.03282467532467534,1
+Healthcare,DT,TO,DT-TO,di_ratio,0.11432125944333482,1
+Healthcare,DT,TO,DT-TO,dp_diff,-0.07331701599232318,1
+Healthcare,DT,TO,DT-TO,eo_diff,0.06929443503356547,1
+Healthcare,DT,TO,DT-TO,expected_accuracy,-0.03460773952649013,1
+Healthcare,DT,TO,DT-TO,expected_dp_diff,-0.0729175743734645,1
+Healthcare,DT,TO,DT-TO,reference_age25_dp,-0.07331701599232318,1
+Healthcare,DT,TO,DT-TO,reference_age25_expected_dp,-0.0729175743734645,1
+Healthcare,HGB,RW,HGB-RW,accuracy,-0.005923497267759559,1
+Healthcare,HGB,RW,HGB-RW,balanced_accuracy,-0.006874098124098129,1
+Healthcare,HGB,RW,HGB-RW,di_ratio,0.007127658479680885,1
+Healthcare,HGB,RW,HGB-RW,dp_diff,-0.009810579670929126,1
+Healthcare,HGB,RW,HGB-RW,eo_diff,-0.002399142564359944,1
+Healthcare,HGB,RW,HGB-RW,expected_accuracy,-0.005923497267759559,1
+Healthcare,HGB,RW,HGB-RW,expected_dp_diff,-0.009810579670929126,1
+Healthcare,HGB,RW,HGB-RW,reference_age25_dp,-0.009810579670929126,1
+Healthcare,HGB,RW,HGB-RW,reference_age25_expected_dp,-0.009810579670929126,1
+Healthcare,HGB,TO,HGB-TO,accuracy,-0.039672131147540986,1
+Healthcare,HGB,TO,HGB-TO,balanced_accuracy,-0.04096560846560846,1
+Healthcare,HGB,TO,HGB-TO,di_ratio,0.05306615972618734,1
+Healthcare,HGB,TO,HGB-TO,dp_diff,-0.03080905528641807,1
+Healthcare,HGB,TO,HGB-TO,eo_diff,0.04356390405086057,1
+Healthcare,HGB,TO,HGB-TO,expected_accuracy,-0.042064943823389725,1
+Healthcare,HGB,TO,HGB-TO,expected_dp_diff,-0.03892688748056206,1
+Healthcare,HGB,TO,HGB-TO,reference_age25_dp,-0.03080905528641807,1
+Healthcare,HGB,TO,HGB-TO,reference_age25_expected_dp,-0.03892688748056206,1
+Healthcare,LR,EG,LR-EG-b0.01,accuracy,-0.047497267759562846,1
+Healthcare,LR,EG,LR-EG-b0.01,balanced_accuracy,-0.04563912938912939,1
+Healthcare,LR,EG,LR-EG-b0.01,di_ratio,0.2551832052964033,1
+Healthcare,LR,EG,LR-EG-b0.01,dp_diff,-0.13318121875908503,1
+Healthcare,LR,EG,LR-EG-b0.01,eo_diff,0.0434943722943723,1
+Healthcare,LR,EG,LR-EG-b0.01,expected_accuracy,-0.04868591459656896,1
+Healthcare,LR,EG,LR-EG-b0.01,expected_dp_diff,-0.13721371854064704,1
+Healthcare,LR,EG,LR-EG-b0.01,reference_age25_dp,-0.13318121875908503,1
+Healthcare,LR,EG,LR-EG-b0.01,reference_age25_expected_dp,-0.13721371854064704,1
+Healthcare,LR,EG,LR-EG-b0.05,accuracy,-0.03627322404371585,1
+Healthcare,LR,EG,LR-EG-b0.05,balanced_accuracy,-0.03475709475709476,1
+Healthcare,LR,EG,LR-EG-b0.05,di_ratio,0.20874780867011888,1
+Healthcare,LR,EG,LR-EG-b0.05,dp_diff,-0.10995134785915237,1
+Healthcare,LR,EG,LR-EG-b0.05,eo_diff,0.0014844344061735449,1
+Healthcare,LR,EG,LR-EG-b0.05,expected_accuracy,-0.036785865320425847,1
+Healthcare,LR,EG,LR-EG-b0.05,expected_dp_diff,-0.12480483608512472,1
+Healthcare,LR,EG,LR-EG-b0.05,reference_age25_dp,-0.10995134785915237,1
+Healthcare,LR,EG,LR-EG-b0.05,reference_age25_expected_dp,-0.12480483608512472,1
+Healthcare,LR,EG,LR-EG-b0.10,accuracy,-0.018480874316939903,1
+Healthcare,LR,EG,LR-EG-b0.10,balanced_accuracy,-0.018370610870610874,1
+Healthcare,LR,EG,LR-EG-b0.10,di_ratio,0.1620951557333511,1
+Healthcare,LR,EG,LR-EG-b0.10,dp_diff,-0.08918494732526831,1
+Healthcare,LR,EG,LR-EG-b0.10,eo_diff,-0.034088667210406334,1
+Healthcare,LR,EG,LR-EG-b0.10,expected_accuracy,-0.019442843137188824,1
+Healthcare,LR,EG,LR-EG-b0.10,expected_dp_diff,-0.09553856630696586,1
+Healthcare,LR,EG,LR-EG-b0.10,reference_age25_dp,-0.08918494732526831,1
+Healthcare,LR,EG,LR-EG-b0.10,reference_age25_expected_dp,-0.09553856630696586,1
+Healthcare,LR,RW,LR-RW,accuracy,-0.010502732240437167,1
+Healthcare,LR,RW,LR-RW,balanced_accuracy,-0.010995670995670994,1
+Healthcare,LR,RW,LR-RW,di_ratio,0.11122900462537481,1
+Healthcare,LR,RW,LR-RW,dp_diff,-0.06577908295988065,1
+Healthcare,LR,RW,LR-RW,eo_diff,-0.01758978605935126,1
+Healthcare,LR,RW,LR-RW,expected_accuracy,-0.010502732240437167,1
+Healthcare,LR,RW,LR-RW,expected_dp_diff,-0.06577908295988065,1
+Healthcare,LR,RW,LR-RW,reference_age25_dp,-0.06577908295988065,1
+Healthcare,LR,RW,LR-RW,reference_age25_expected_dp,-0.06577908295988065,1
+Healthcare,LR,TO,LR-TO,accuracy,-0.07310382513661202,1
+Healthcare,LR,TO,LR-TO,balanced_accuracy,-0.07500901875901876,1
+Healthcare,LR,TO,LR-TO,di_ratio,0.2066980057208426,1
+Healthcare,LR,TO,LR-TO,dp_diff,-0.11875477319264036,1
+Healthcare,LR,TO,LR-TO,eo_diff,0.051049045318610535,1
+Healthcare,LR,TO,LR-TO,expected_accuracy,-0.07350691481341975,1
+Healthcare,LR,TO,LR-TO,expected_dp_diff,-0.1380051271794515,1
+Healthcare,LR,TO,LR-TO,reference_age25_dp,-0.11875477319264036,1
+Healthcare,LR,TO,LR-TO,reference_age25_expected_dp,-0.1380051271794515,1
+Healthcare,RF,RW,RF-RW,accuracy,0.015202185792349719,1
+Healthcare,RF,RW,RF-RW,balanced_accuracy,0.01495280182780181,1
+Healthcare,RF,RW,RF-RW,di_ratio,0.04075338778941058,1
+Healthcare,RF,RW,RF-RW,dp_diff,-0.025139029945540833,1
+Healthcare,RF,RW,RF-RW,eo_diff,-0.007437589141936969,1
+Healthcare,RF,RW,RF-RW,expected_accuracy,0.015202185792349719,1
+Healthcare,RF,RW,RF-RW,expected_dp_diff,-0.025139029945540833,1
+Healthcare,RF,RW,RF-RW,reference_age25_dp,-0.025139029945540833,1
+Healthcare,RF,RW,RF-RW,reference_age25_expected_dp,-0.025139029945540833,1
+Healthcare,RF,TO,RF-TO,accuracy,-0.05803278688524591,1
+Healthcare,RF,TO,RF-TO,balanced_accuracy,-0.06412427849927849,1
+Healthcare,RF,TO,RF-TO,di_ratio,0.12468923435106043,1
+Healthcare,RF,TO,RF-TO,dp_diff,-0.10440674055398018,1
+Healthcare,RF,TO,RF-TO,eo_diff,0.16108768847899285,1
+Healthcare,RF,TO,RF-TO,expected_accuracy,-0.060901923765032805,1
+Healthcare,RF,TO,RF-TO,expected_dp_diff,-0.10191197414890951,1
+Healthcare,RF,TO,RF-TO,reference_age25_dp,-0.10440674055398018,1
+Healthcare,RF,TO,RF-TO,reference_age25_expected_dp,-0.10191197414890951,1

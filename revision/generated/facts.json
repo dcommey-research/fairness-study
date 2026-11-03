@@ -1,0 +1,44 @@
+{
+  "planned_evaluations": 4550,
+  "recorded_evaluations": 4550,
+  "successful_evaluations": 4244,
+  "failed_evaluations": 306,
+  "main_planned_evaluations": 3325,
+  "main_successful_evaluations": 3097,
+  "ablation_planned_evaluations": 1225,
+  "datasets": [
+    "german",
+    "heart_disease",
+    "compas",
+    "lsac",
+    "bank_marketing",
+    "adult",
+    "folktables_income"
+  ],
+  "folds_per_configuration": 25,
+  "failure_reasons": {
+    "TO infeasible: at least one expected intersection lacks an outcome class in calibration; no fallback": 306
+  },
+  "code_hash": "531c8c9d794b304b3938fa310897fad466579436ae3f340ce71c522c6bcc6f52",
+  "warnings": 0,
+  "convergence_warning_evaluations": 0,
+  "eg_iteration_limit_evaluations": 92,
+  "constant_decision_evaluations": 0,
+  "frontier_counts": {
+    "adult": 8,
+    "bank_marketing": 2,
+    "compas": 8,
+    "folktables_income": 7,
+    "german": 8,
+    "heart_disease": 6,
+    "lsac": 10
+  },
+  "objective_sensitive_frontier_datasets": [
+    "adult",
+    "bank_marketing",
+    "compas",
+    "folktables_income",
+    "german",
+    "heart_disease"
+  ]
+}

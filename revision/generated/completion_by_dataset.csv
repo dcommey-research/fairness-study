@@ -1,0 +1,15 @@
+dataset,encoding,sample_size,planned,successful,failed
+adult,native,48842,475,447,28
+bank_marketing,native,45211,475,475,0
+compas,native,6172,475,375,100
+folktables_income,native,195665,475,375,100
+german,age25,250,175,172,3
+german,age25,500,175,175,0
+german,age25,1000,475,475,0
+german,age35,1000,175,175,0
+german,age_bands,1000,175,175,0
+german,raw_age,250,175,150,25
+german,raw_age,500,175,150,25
+german,raw_age,1000,175,150,25
+heart_disease,native,303,475,475,0
+lsac,native,22342,475,475,0

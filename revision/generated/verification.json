@@ -1,0 +1,13 @@
+{
+  "status": "passed",
+  "expected_evaluations": 4550,
+  "records": 4550,
+  "successes": 4244,
+  "explicit_failures": 306,
+  "prediction_and_split_checks": 4594,
+  "german_control_splits": 75,
+  "errors": [],
+  "code_hash": "531c8c9d794b304b3938fa310897fad466579436ae3f340ce71c522c6bcc6f52",
+  "independent_auc_method": "Mann-Whitney rank sum with average ties",
+  "derived_expected_balanced_accuracy_checks": 4244
+}

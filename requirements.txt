@@ -1,0 +1,2 @@
+# Corrected revision runtime; historical dependencies are recoverable in Git.
+-r requirements-revision.lock.txt
